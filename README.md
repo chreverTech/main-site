@@ -1,17 +1,5 @@
-# gatsby-starter-landed
+# The Business Main Site
 
-**This is a starter for Gatsby.js V2.**
+### Code Health:
 
-Gatsby.js V2 starter based on the Landed site template, designed by HTML5 UP.
-
-## Preview
-
-https://gatsby-starter-landed.netlify.com
-
-## Installation
-
-Install this starter :
-<br/>
-`gatsby new gatsby-starter-landed https://github.com/vasrush/gatsby-starter-landed`
-
-Run `gatsby develop` to start the dev site or `gatsby build` to build it for production.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d08bbca-e0c5-4a1a-b5ef-5e9f4794b10b/deploy-status)](https://app.netlify.com/sites/thebusiness/deploys)
